@@ -1,0 +1,20 @@
+body {
+text-align: center;
+color: snow;
+    font-family: cursive;
+background: linear-gradient(0deg, rgba(195,136,34,1) 0%, rgba(253,45,94,1) 100%);
+    font-size: 50px ;
+   
+}
+h1 {
+text-shadow: 2px 2px  black; 
+font-size :20px ;
+}
+p {
+font-family: cursive;
+font-size: 50px ;
+color: snow;
+     border-width: 5px;
+    border-color:snow;
+    border-style:double;
+}
